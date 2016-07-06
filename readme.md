@@ -26,4 +26,4 @@ Note book [here](notebooks/svm.ipynb)
 
 # Pipeline
 
-* Code [here](notbooks/pipeline.ipynb)
+* Code [here](notebooks/pipeline.ipynb)
