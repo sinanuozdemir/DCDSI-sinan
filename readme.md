@@ -22,3 +22,8 @@ Note book [here](notebooks/svm.ipynb)
 
 * [http://sinan-iris.herokuapp.com/](http://sinan-iris.herokuapp.com/)
 * Slides [here](slides/web_dev.pdf)
+
+
+# Pipeline
+
+* Code [here](notbooks/pipeline.ipynb)
